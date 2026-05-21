@@ -1,0 +1,6 @@
+[2026-05-20 06:07:13 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2026-05-20 06:12:55 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2026-05-20 06:14:24 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2026-05-20 06:15:07 : INFO] - Pruning the Cache log file 
+[2026-05-20 06:15:38 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2026-05-21 10:45:29 : INFO] - Full Cache Purge triggered by: WPO_Page_Cache::maybe_update_advanced_cache 
